@@ -5,7 +5,7 @@ public class topKNumbersInAStream {
     /*
      * Name Of The Problem :- Top k numbers in a stream
      * 
-     * POTD :- 19-01-2024
+     * POTD :- 19-jan-2024
      * Given N numbers in an array, your task is to keep at most the top K numbers with respect to their frequency.
 
 In other words, you have to iterate over the array, and after each index, determine the top K most frequent numbers until that iteration and store them in an array in decreasing order of frequency. An array will be formed for each iteration and stored in an array of arrays. If the total number of distinct elements is less than K, then keep all the distinct numbers in the array. If two numbers have equal frequency, place the smaller number first in the array.
