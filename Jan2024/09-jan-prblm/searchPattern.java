@@ -3,7 +3,7 @@ package 09-jan-prblm;
 public class searchPattern {
     /*
      * Name Of The Problem :- Search Pattern (KMP-Algorithm)
-     * POTD - 09-01-2024
+     * POTD - 09-jan-2024
      * Given two strings, one is a text string, txt and other is a pattern string, pat. The task is to print the indexes of all the occurences of pattern string in the text string. Use one-based indexing while returing the indices. 
 Note: Return an empty list incase of no occurences of pattern. Driver will print -1 in this case.
 
