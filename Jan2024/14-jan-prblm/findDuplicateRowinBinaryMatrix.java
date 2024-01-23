@@ -3,6 +3,7 @@ package 14-jan-prblm;
 public class findDuplicateRowinBinaryMatrix {
     /*
      * Name Of The Problem :- Find duplicate rows in a binary matrix
+     * POTD :- 14-jan-2024
      * 
      * Given a boolean matrix of size RxC where each cell contains either 0 or 1, find the row numbers (0-based) of row which already exists or are repeated.
 
