@@ -4,7 +4,7 @@ public class courseSchedule {
 
     /*
      * Name Of The Problem :- Course Schedule
-     * POTD:- 23-jan-2024
+     * POTD:- 23-01-2024
      * 
      * 
      * There are a total of n tasks you have to pick, labelled from 0 to n-1. Some tasks may have prerequisite tasks, for example to pick task 0 you have to first finish tasks 1, which is expressed as a pair: [0, 1]
