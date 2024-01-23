@@ -3,7 +3,7 @@ package 07-jan-prblm;
 public class splitArray {
     /*
      * Name Of Problem :- Split Array Largest Sum
-     * POTD :- 07-jan-2024
+     * POTD :- 07-01-2024
      * Given an array arr[] of N elements and a number K., split the given array into K subarrays such that the maximum subarray sum achievable out of K subarrays formed is minimum possible. Find that possible subarray sum.
 
 Example 1:
