@@ -3,6 +3,7 @@ package 18-jan-prblm;
 public class waterThePlants {
     /*
      * Name Of The Problem :- Water the plants
+     * POTD :- 18-jan-2024
      * 
      * A gallery with plants is divided into n parts, numbered 0, 1, 2, 3, ..., n-1. There are provisions for attaching water sprinklers in every division. A sprinkler with range x at division i can water all divisions from i-x to i+x.
 
