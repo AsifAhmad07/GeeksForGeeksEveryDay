@@ -5,7 +5,7 @@ public class vertexCover {
     /*
      * Name Of The Problem :-Vertex Cover
  
-     * POTD :- 21-jan-2024
+     * POTD :- 21-01-2024
      * 
      * Vertex cover of an undirected graph is a list of vertices such that every vertex not in the vertex cover shares their every edge with the vertices in the vertex cover. In other words, for every edge in the graph, atleast one of the endpoints of the graph should belong to the vertex cover. You will be given an undirected graph G, and your task is to determine the smallest possible size of a vertex cover.
 
