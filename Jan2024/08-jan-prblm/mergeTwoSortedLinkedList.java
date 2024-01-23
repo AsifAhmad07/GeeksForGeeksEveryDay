@@ -3,7 +3,7 @@ package 08-jan-prblm;
 public class mergeTwoSortedLinkedList {
     /*
      * Name Of The Problem :- Merge 2 sorted linked list in reverse order
-     * POTD :- 08-jan-2024
+     * POTD :- 08-01-2024
      * Given two linked lists of size N and M, which are sorted in non-decreasing order. The task is to merge them in such a way that the resulting list is in non-increasing order.
 
 Example 1:
