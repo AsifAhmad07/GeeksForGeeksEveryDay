@@ -4,7 +4,7 @@ public class sequenceOfSequence {
 
     /*
      * Name Of The Problem :- Sequence of Sequence
-     * POTD :- 16-01-2024
+     * POTD :- 16-jan-2024
      * Given two integers m and n, try making a special sequence of numbers seq of length n such that
 
 seqi+1 >= 2*seqi 
