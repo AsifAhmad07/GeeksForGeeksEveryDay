@@ -2,6 +2,7 @@ public class uniquePermutationOfAnArray {
 
     /*
      * Name Of The Problem :- All Unique Permutations of an array
+     * POTD :- 17-jan-2024
      * 
      * Given an array arr[] of length n. Find all possible unique permutations of the array in sorted order. A sequence A is greater than sequence B if there is an index i for which Aj = Bj for all j<i and Ai > Bi.
 
