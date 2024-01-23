@@ -3,7 +3,7 @@ package 10-jan-prblm;
 public class longestSubArrayDivByK {
     /*
      * Name Of The Problem :- Longest subarray with sum divisible by K
-     * POTD - 10 -jan - 2024
+     * POTD - 10 -01- 2024
      * Given an array arr containing N integers and a positive integer K, find the length of the longest sub array with sum of the elements divisible by the given value K.
 
 Example 1:
