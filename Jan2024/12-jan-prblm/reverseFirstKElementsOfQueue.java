@@ -3,7 +3,7 @@ package 12-jan-prblm;
 public class reverseFirstKElementsOfQueue {
     /*
      * Name Of The Problem :- Reverse First K elements of Queue
-     * POTD - 12-jan-2024
+     * POTD - 12-01-2024
      * Given an integer K and a queue of integers, we need to reverse the order of the first K elements of the queue, leaving the other elements in the same relative order.
 
 Only following standard operations are allowed on queue.
