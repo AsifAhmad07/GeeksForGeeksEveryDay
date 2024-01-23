@@ -4,7 +4,7 @@ public class distributeCandiesInBinaryTree {
 
     /*
      * Name Of The Problem :- Distribute candies in a binary tree
-     * POTD :- 20-01-2024 
+     * POTD :- 20-jan-2024 
      * 
      * Given a binary tree with N nodes, in which each node value represents number of candies present at that node. In one move, one may choose two adjacent nodes and move only one candy from one node to another (the move may be from parent to child, or from child to parent.) 
 The task is to find the number of moves required such that every node has exactly one candy.
