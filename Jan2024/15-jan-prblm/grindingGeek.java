@@ -3,7 +3,7 @@ package 15-jan-prblm;
 public class grindingGeek {
     /*
      * Name Of The Problem :- Grinding Geek
-     * POTD :- 15-jan-2024
+     * POTD :- 15-01-2024
      * 
      * GeeksforGeeks has introduced a special offer where you can enroll in any course, and if you manage to complete 90% of the course within 90 days, you will receive a refund of 90%.
 
