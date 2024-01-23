@@ -3,7 +3,7 @@ package 22-jan-prblm;
 public class pathFromRootWithSpecifiedSum {
     /*
      * Name Of The Problem :- Paths from root with a specified sum\
-     * POTD :- 22-jan-2024
+     * POTD :- 22-01-2024
      * 
      * Given a Binary tree and a sum S, print all the paths, starting from root, that sums upto the given sum. Path may not end on a leaf node.
 
