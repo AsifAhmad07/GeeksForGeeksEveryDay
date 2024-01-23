@@ -3,7 +3,7 @@ package 11-jan-prblm;
 public class removeKDigits {
     /*
      * Name Of The Problem - Remove K Digits
-     * POTD - 11- jan- 2024
+     * POTD - 11- 01- 2024
      * Given a non-negative integer S represented as a string, remove K digits from the number so that the new number is the smallest possible.
 Note : The given num does not contain any leading zero.
 
