@@ -6,7 +6,7 @@ public class rowwithminimumnumberof 1's {
 
     Name Of The Problem :- Row with minimum number of 1's
 
-    POTD :- 24-April-2024
+    POTD :- 22-April-2024
 
 
     Given a 2D binary matrix(1-based indexed) a of dimensions nxm , determine the row that contains the minimum number of 1's.
