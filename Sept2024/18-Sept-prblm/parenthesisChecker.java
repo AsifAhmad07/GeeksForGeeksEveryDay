@@ -52,7 +52,7 @@ class Solution
                 st.pop();
             }
         }
-        return st.empty();
+        return st.empty(); // 
     }
 }
 
