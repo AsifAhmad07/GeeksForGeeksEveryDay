@@ -70,18 +70,17 @@ class Node
 
 */
 class Solution {
-    // Function to return a list of integers denoting the node
-    // values of both the BST in a sorted order.
-    s Solution {
      void help(Node root,List<Integer> temp){
         if(root==null)return;
         help(root.left,temp);
         temp.add(root.data);
         help(root.right,temp);
     }
+    // Function to return a list of integers denoting the node
+    // values of both the BST in a sorted order.
     public List<Integer> merge(Node root1, Node root2) {
         // Write your code here
-          List<Integer> first = new ArrayList<>();
+         List<Integer> first = new ArrayList<>();
         List<Integer> second = new ArrayList<>();
         List<Integer> ans = new ArrayList<>();
         help(root1,first);
@@ -96,6 +95,5 @@ class Solution {
         return ans;
     }
 }
-
     
 }
